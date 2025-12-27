@@ -464,6 +464,8 @@ namespace ImageToModelConverter
             {
                 0 => DetailLevel.Low,
                 2 => DetailLevel.High,
+                3 => DetailLevel.VeryHigh,
+                4 => DetailLevel.Ultra,
                 _ => DetailLevel.Medium
             };
         }

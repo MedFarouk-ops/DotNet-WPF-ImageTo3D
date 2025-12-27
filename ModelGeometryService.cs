@@ -21,7 +21,9 @@ namespace ImageToModelConverter
     {
         Low,
         Medium,
-        High
+        High,
+        VeryHigh,
+        Ultra
     }
 
     public class ModelGeometryService
@@ -344,7 +346,9 @@ namespace ImageToModelConverter
             {
                 DetailLevel.Low => 8,
                 DetailLevel.Medium => 4,
-                DetailLevel.High => 2,
+                DetailLevel.High => 3,
+                DetailLevel.VeryHigh => 2,
+                DetailLevel.Ultra => 1,
                 _ => 4
             };
         }

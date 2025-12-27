@@ -24,3 +24,4 @@ C:\Users\moham\source\repos\ImageToModelConverter\ImageToModelConverter\bin\Debu
 C:\Users\moham\source\repos\ImageToModelConverter\ImageToModelConverter\bin\Debug\net8.0-windows\runtimes\win-x64\native\assimp.dll
 C:\Users\moham\source\repos\ImageToModelConverter\ImageToModelConverter\bin\Debug\net8.0-windows\runtimes\win-x86\native\assimp.dll
 C:\Users\moham\source\repos\ImageToModelConverter\ImageToModelConverter\obj\Debug\net8.0-windows\ImageToM.0EF9959E.Up2Date
+C:\Users\moham\source\repos\ImageToModelConverter\ImageToModelConverter\obj\Debug\net8.0-windows\ImageToModelConverter.sourcelink.json
