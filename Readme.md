@@ -52,6 +52,7 @@ Below are some screenshots from the application:
 - **WPF**
 - 3D rendering using `Viewport3D`
 - Custom extrusion logic based on image color data
+- Exporting 3D Models Using AssmipNet
 
 ---
 
