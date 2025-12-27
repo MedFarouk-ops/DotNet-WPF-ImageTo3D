@@ -33,9 +33,9 @@ This approach is especially useful for:
 
 Below are some screenshots from the application:
 
-![Screenshot 1](assets/sc%20(1).png)
-![Screenshot 2](assets/sc%20(2).png)
-![Screenshot 3](assets/sc%20(3).png)
+![Screenshot 1](assets/sc (1).png)
+![Screenshot 2](assets/sc (2).png)
+![Screenshot 3](assets/sc (3).png)
 
 > Screenshots are located in the `assets` folder.
 
